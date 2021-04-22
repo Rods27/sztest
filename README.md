@@ -9,7 +9,7 @@ Um website que do lado esquerdo você pode postar um comentário, e do lado dire
 * [FeedBack](#feedback)
 
 ## Deploy
-Caso queira ver a aplicação rodando clique [aqui](https://rods27.github.io/sztest/)
+Caso queira ver a aplicação rodando clique [aqui](https://rods27.github.io/sztest/).
 
 ## Screenshots
 
