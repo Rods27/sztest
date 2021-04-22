@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Casa c/ Vista Praia Mole. Cond. Fechado no Paraíso",
+    "district": "Praia Mole",
+    "state": "Santa Catarina",
+    "country": "Brasil",
+    "adress": "Praia Mole, Santa Catarina - SC, Brasil",
+    "rooms": { "rooms": 3, "beds": 5, "bathrooms": 3 },
+    "beds": [{ "queen": 1 }, { "double": 1 }, { "single": 3 }],
+    "maxGuests": 7,
+    "cleaningfee": 300,
+    "daily": 290,
+    "rules": {
+      "kids": true,
+      "babies": true,
+      "smoking": true,
+      "events": false,
+      "silence": [22, 9],
+      "animals": false
+    },
+    "convenience": {
+      "parking": true,
+      "tv": true,
+      "airConditioning": true,
+      "wifi": true,
+      "workingSpace": true,
+      "concierge": true
+    },
+    "link": "https://www.airbnb.pt/rooms/32896214?federated_search_id=45c5508a-7151-4c0c-89be-f9ef2a81cef7",
+    "tag": "praiamole",
+    "active": true
+  },
+  {
+    "name": "Afras Maresias! O melhor 2 dorms - 400m da praia!",
+    "district": "Maresias",
+    "state": "São Paulo",
+    "adress": "Maresias, São Paulo - SP, Brasil",
+    "rooms": { "rooms": 2, "beds": 3, "bathrooms": 2 },
+    "beds": [{ "double": 1 }, { "double": 1 }, { "sofabed": 1 }],
+    "maxGuests": 5,
+    "cleaningfee": 200,
+    "daily": 180,
+    "rules": {
+      "kids": true,
+      "babies": true,
+      "smoking": false,
+      "events": false,
+      "animals": true
+    },
+    "convenience": {
+      "pool": true,
+      "parking": true,
+      "wifi": true,
+      "concierge": true,
+      "tv": true,
+      "airConditioning": true,
+      "workingSpace": true
+    },
+    "link": "https://www.airbnb.pt/rooms/48066092?federated_search_id=e4d0deec-5d53-4a00-aa2a-2ee849911566",
+    "tag": "maresias",
+    "active": true
+  },
+  {
+    "name": "Flat Luxo Completo Beira-Mar 01 - MANAIRA PALACE",
+    "district": "João Pessoa",
+    "state": "Paraiba",
+    "country": "Brasil",
+    "adress": "João Pessoa, Paraiba - PB, Brasil",
+    "rooms": { "rooms": 1, "beds": 3, "bathrooms": 1 },
+    "beds": [{ "double": 1, "single": 1 }, { "sofabed": 1 }],
+    "maxGuests": 4,
+    "cleaningfee": 20,
+    "daily": 170,
+    "rules": {
+      "kids": true,
+      "babies": true,
+      "smoking": true,
+      "events": false,
+      "animals": false,
+      "silence": [22, 9]
+    },
+    "convenience": {
+      "parking": true,
+      "tv": true,
+      "airConditioning": true,
+      "wifi": true,
+      "workingSpace": true,
+      "concierge": true,
+      "elevator": true,
+      "pool": true
+    },
+    "link": "https://www.airbnb.pt/rooms/21749865",
+    "tag": "joaopessoa",
+    "active": false
+  },
+  {
+    "name": "casa maravilhosa em frente ao mar",
+    "district": "",
+    "state": "Rio de Janeiro",
+    "country": "Brasil",
+    "adress": "Rio de Janeiro - RJ, Brasil",
+    "rooms": { "rooms": 1, "beds": 2, "bathrooms": 1 },
+    "beds": [{ "queen": 1 }, { "queen": 1 }],
+    "maxGuests": 2,
+    "cleaningfee": 100,
+    "daily": 150,
+    "rules": {
+      "kids": false,
+      "babies": false,
+      "smoking": false,
+      "events": false,
+      "animals": false,
+      "silence": [22, 9]
+    },
+    "convenience": {
+      "parking": true,
+      "tv": true,
+      "airConditioning": true,
+      "wifi": true,
+      "elevator": true
+    },
+    "link": "https://www.airbnb.pt/rooms/494903",
+    "tag": "rj01",
+    "active": true
+  },
+  {
+    "name": "Space Valley flat",
+    "district": "Jardim São Dimas",
+    "state": "São Paulo",
+    "country": "Brasil",
+    "adress": "Jardim São Dimas - SP, Brasil",
+    "rooms": { "rooms": 1, "beds": 1, "bathrooms": 1 },
+    "beds": [{ "queen": 1 }],
+    "maxGuests": 2,
+    "cleaningfee": 67,
+    "daily": 120,
+    "rules": {
+      "kids": false,
+      "babies": false,
+      "smoking": false,
+      "events": false,
+      "animals": false,
+      "silence": [22, 9]
+    },
+    "convenience": {
+      "parking": true,
+      "tv": true,
+      "airConditioning": true,
+      "wifi": true,
+      "gym": true,
+      "elevator": true,
+      "pool": true
+    },
+    "link": "https://www.airbnb.pt/rooms/28310939",
+    "tag": "saodimas",
+    "active": true
+  },
+  {
+    "name": "Casa completa próxima a Ouro Preto!",
+    "district": "Ouro Preto",
+    "state": "Minas Gerais",
+    "country": "Brasil",
+    "adress": "Ouro Preto - MG, Brasil",
+    "rooms": { "rooms": 2, "beds": 2, "bathrooms": 2 },
+    "beds": [{ "queen": 1 }, { "double": 1 }],
+    "maxGuests": 4,
+    "cleaningfee": 80,
+    "daily": 140,
+    "rules": {
+      "kids": true,
+      "babies": true,
+      "smoking": true,
+      "events": true,
+      "animals": true,
+      "silence": [22, 9]
+    },
+    "convenience": {
+      "parking": true,
+      "tv": true,
+      "wifi": true
+    },
+    "link": "https://www.airbnb.pt/rooms/20213736",
+    "tag": "ouropreto",
+    "active": true
+  }
+]
