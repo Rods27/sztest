@@ -8,7 +8,7 @@ Um website que do lado esquerdo você pode postar um comentário, e do lado dire
 * [Configuração](#configuração)
 * [FeedBack](#feedback)
 
-##Deploy
+## Deploy
 
 [Link](https://rods27.github.io/sztest/) para deploy.
 
