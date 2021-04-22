@@ -30,7 +30,7 @@ class Properties extends React.Component {
             data.map((element, index) => (
               <div className="hotel" key={ index }>
                 <div
-                  style={{ backgroundImage: `url(${window.location.origin + `/${data[index].tag}/1.jpg`})` }}
+                  style={{ backgroundImage: `url(${window.location.origin + `sztest/${data[index].tag}/1.jpg`})` }}
                   className="background"
                   onClick={ (event) => this.hotelDetails(event.target, index) }
                 >
