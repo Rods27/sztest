@@ -52,13 +52,13 @@ class Details extends React.Component {
             { state && state.tag ?
               <div className="slider">
                 <i className="fas fa-angle-left" id="left" onClick={ this.goLeft }/>
-                <img src={ window.location.origin + `sztest/${state.tag}/1.jpg`} alt={`${state.tag}-1`} style={ { transform: `translateX(${x}%)` } }/>
-                <img src={ window.location.origin + `sztest/${state.tag}/2.jpg`} alt={`${state.tag}-2`} style={ { transform: `translateX(${x}%)` } }/>
-                <img src={ window.location.origin + `sztest/${state.tag}/3.jpg`} alt={`${state.tag}-3`} style={ { transform: `translateX(${x}%)` } }/>
-                <img src={ window.location.origin + `sztest/${state.tag}/4.jpg`} alt={`${state.tag}-4`} style={ { transform: `translateX(${x}%)` } }/>
-                <img src={ window.location.origin + `sztest/${state.tag}/5.jpg`} alt={`${state.tag}-5`} style={ { transform: `translateX(${x}%)` } }/>
-                <img src={ window.location.origin + `sztest/${state.tag}/6.jpg`} alt={`${state.tag}-6`} style={ { transform: `translateX(${x}%)` } }/>
-                <img src={ window.location.origin + `sztest/${state.tag}/7.jpg`} alt={`${state.tag}-7`} style={ { transform: `translateX(${x}%)` } }/>
+                <img src={ window.location.origin + `/sztest/${state.tag}/1.jpg`} alt={`${state.tag}-1`} style={ { transform: `translateX(${x}%)` } }/>
+                <img src={ window.location.origin + `/sztest/${state.tag}/2.jpg`} alt={`${state.tag}-2`} style={ { transform: `translateX(${x}%)` } }/>
+                <img src={ window.location.origin + `/sztest/${state.tag}/3.jpg`} alt={`${state.tag}-3`} style={ { transform: `translateX(${x}%)` } }/>
+                <img src={ window.location.origin + `/sztest/${state.tag}/4.jpg`} alt={`${state.tag}-4`} style={ { transform: `translateX(${x}%)` } }/>
+                <img src={ window.location.origin + `/sztest/${state.tag}/5.jpg`} alt={`${state.tag}-5`} style={ { transform: `translateX(${x}%)` } }/>
+                <img src={ window.location.origin + `/sztest/${state.tag}/6.jpg`} alt={`${state.tag}-6`} style={ { transform: `translateX(${x}%)` } }/>
+                <img src={ window.location.origin + `/sztest/${state.tag}/7.jpg`} alt={`${state.tag}-7`} style={ { transform: `translateX(${x}%)` } }/>
                 <i className="fas fa-angle-right" id="right" onClick={ this.goRight }/> 
               </div>
                 : null}
