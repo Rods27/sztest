@@ -10,6 +10,7 @@ Um website que do lado esquerdo você pode postar um comentário, e do lado dire
 
 ## Deploy
 Caso queira ver a aplicação rodando clique [aqui](https://rods27.github.io/sztest/).
+<a href="https://rods27.github.io/sztest/" target="_blank" rel="noopener noreferrer">aqui</a>.
 
 ## Screenshots
 
