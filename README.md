@@ -1,4 +1,4 @@
-# Smarkio Comment-Reader
+# Seazone Test
 Um website que do lado esquerdo você pode postar um comentário, e do lado direito você pode visualizá-lo, ouvi-lo ou deletá-lo.
 
 ## Indice
