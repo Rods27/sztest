@@ -1,5 +1,5 @@
 # Seazone Test
-Um website que do lado esquerdo você pode postar um comentário, e do lado direito você pode visualizá-lo, ouvi-lo ou deletá-lo.
+Um website para cadastro de hoteis de temporada
 
 ## Indice
 * [Screenshots](#screenshots)
